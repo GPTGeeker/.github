@@ -14,3 +14,9 @@ GPTGeeker 的成员就是这几万人中的少数派。
 
 # 联系我们
 - 微信公众号：longtalkAI
+
+## 知识星球
+如果你对 GPT 开发有兴趣，想要认识更多玩 GPT 的朋友，欢迎加入 GPTGeeker 的星球：
+- GPTGeeker 是 OpenAI GPTs 精英开发者和 Geek 的社群，我们致力于帮助 GPT 开发者，将心中的灵感和创意转化为能够迸发精彩能力的定制 GPT
+<div style="text-align:center;">
+<img src="imgs/gptgeeker.jpg" width="400">
